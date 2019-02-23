@@ -8,6 +8,11 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+    color: #747474;
+}
+
 body{
 	background-color: #001628;
 	color: #ffffff;
@@ -23,6 +28,10 @@ p{
 
 .justify{
 	text-align: justify;
+}
+
+.block{
+    display: block;
 }
 
 .container {

@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background-color: #001628;
+	color: #ffffff;
+	padding: 1rem;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin: 1rem 0;
+}
+
+p{
+	margin: 0.5rem 0;
+}
